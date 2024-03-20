@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T12:50:33.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jqYmeqL022ujKnl0sTsM" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T13:02:13.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jjAciDsfymClrNnyk2zt" version="24.0.7" type="github">
   <diagram name="Page-1" id="Amw0FL5CEn6CEXGqxPnB">
     <mxGraphModel dx="989" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         <mxCell id="JWrdjlkLizISWo3fTnx8-31" value="PG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="571.25" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JWrdjlkLizISWo3fTnx8-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="JWrdjlkLizISWo3fTnx8-22" target="JWrdjlkLizISWo3fTnx8-6">
+        <mxCell id="JWrdjlkLizISWo3fTnx8-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="JWrdjlkLizISWo3fTnx8-22" target="JWrdjlkLizISWo3fTnx8-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="360" as="sourcePoint" />
             <mxPoint x="290" y="310" as="targetPoint" />
@@ -145,6 +145,12 @@
             <mxPoint x="145" y="200" as="sourcePoint" />
             <mxPoint x="203" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JWrdjlkLizISWo3fTnx8-42" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Commentaires&lt;/h1&gt;&lt;p&gt;- un web service de suivi permet de faire circuler l&#39;information entre les parties du système.&lt;/p&gt;&lt;p&gt;- RSmart notifie des actes de validation gestion par le biais du système de suivi. Ce dernier peut écrire directement dans la base de gestion ou appeler un end-point de service côté omer-gestion.&lt;/p&gt;&lt;p&gt;- RSmart installé en DMZ ne peut notifier Odic en zone interne directement des actes de validation : le fil de l&#39;eau dans ce système et sans API gateway ne peut exister.&lt;/p&gt;&lt;p&gt;- Un batch quotidien&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="114" y="760" width="598.53" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JWrdjlkLizISWo3fTnx8-43" value="Avec les moyens du bord" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
