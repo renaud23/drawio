@@ -1,98 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T12:38:28.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Iq_6OAUqZAl-tzfh6Kpe" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T08:02:56.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WZUPbZNqZL3JIqZRjFhb" version="24.0.7" type="github">
   <diagram name="Page-1" id="Sdn18f_PWOAYdjXlUg6h">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="310" as="sourcePoint" />
-            <mxPoint x="390" y="50" as="targetPoint" />
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="400" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="550" as="sourcePoint" />
-            <mxPoint x="390" y="310" as="targetPoint" />
+            <mxPoint x="100" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="560" as="sourcePoint" />
-            <mxPoint x="390" y="310" as="targetPoint" />
+            <mxPoint x="720" y="570" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-9" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
-          <mxGeometry x="580" y="120" width="42.5" height="50" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-10" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
-          <mxGeometry x="170" y="130" width="42.5" height="50" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-11" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
-          <mxGeometry x="370" y="430" width="42.5" height="50" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-6" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-12" value="Gestion de la Collecte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="540" y="20" width="160" height="30" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-7" value="Gestion de la Collecte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-13" value="Collecte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="20" width="160" height="30" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-8" value="Collecte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-14" value="Post Collecte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="311.25" y="610" width="160" height="30" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-9" value="Post Collecte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="321.25" y="620" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-15" value="Système de Collecte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106.88" y="240" width="168.75" height="80" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-10" value="Système de Collecte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116.88" y="250" width="168.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-16" value="Omer Gestion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-11" value="Omer Gestion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-17" value="Odic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="331.25" y="504.5" width="120" height="80" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-12" value="Odic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.25" y="514.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SiyNjGuHQC4BLE3Mjnjn-17" target="SiyNjGuHQC4BLE3Mjnjn-11">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="wSLz6fAJgM2Y5q_hvWpa-12" target="wSLz6fAJgM2Y5q_hvWpa-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="540" as="sourcePoint" />
-            <mxPoint x="280" y="490" as="targetPoint" />
+            <mxPoint x="240" y="550" as="sourcePoint" />
+            <mxPoint x="290" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SiyNjGuHQC4BLE3Mjnjn-15" target="SiyNjGuHQC4BLE3Mjnjn-10">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wSLz6fAJgM2Y5q_hvWpa-10" target="wSLz6fAJgM2Y5q_hvWpa-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="210" as="sourcePoint" />
-            <mxPoint x="310" y="160" as="targetPoint" />
+            <mxPoint x="270" y="220" as="sourcePoint" />
+            <mxPoint x="320" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SiyNjGuHQC4BLE3Mjnjn-16" target="SiyNjGuHQC4BLE3Mjnjn-9">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wSLz6fAJgM2Y5q_hvWpa-11" target="wSLz6fAJgM2Y5q_hvWpa-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="240" as="sourcePoint" />
-            <mxPoint x="540" y="190" as="targetPoint" />
+            <mxPoint x="500" y="250" as="sourcePoint" />
+            <mxPoint x="550" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="160" as="sourcePoint" />
-            <mxPoint x="450" y="160" as="targetPoint" />
+            <mxPoint x="340" y="170" as="sourcePoint" />
+            <mxPoint x="460" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="470" as="sourcePoint" />
-            <mxPoint x="200" y="380" as="targetPoint" />
+            <mxPoint x="290" y="480" as="sourcePoint" />
+            <mxPoint x="210" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-24" value="Comment assurer le suivi de la collecte ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="90" width="190" height="30" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-18" value="Comment assurer le suivi de la collecte ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-25" value="Comment rapatrier les questionnaire ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="183" height="30" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-19" value="Comment rapatrier les questionnaire ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="183" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-26" value="DMZ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-20" value="DMZ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-27" value="Zone Interne" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="361" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-21" value="Zone Interne" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiyNjGuHQC4BLE3Mjnjn-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Commentaires&lt;/h1&gt;&lt;p&gt;- Les données de collecte sont isolés dans un système indépendant de la gestion et du post collecte, avec un stockage dédié et orienté document.&lt;/p&gt;&lt;p&gt;- l&#39;API RSmart doit être adapter pour travailler avec un nouveau type de stockage, mais le client reste inchangé.&lt;/p&gt;&lt;p&gt;- Omer gestion reste à l&#39;identique mais ne profite plus de l&#39;alimentation des tables de collecte. Celles-ci restent vides. Pour continuer à fonctionner correctement, il faut toutefois veiller à faire circuler l&#39;information depuis le système de collecte.&lt;/p&gt;&lt;p&gt;- Odic doit percevoir les questionnaire validé comme dans le système actuel. Les questionnaires validés doivent quitter le système de collecte tout en y laissant une trace (éviter les doublons comme en 2024 !)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="800" width="580" height="220" as="geometry" />
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Commentaires&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Le découpage des sous-systèmes suit les lignes tracés par le système actuel. (hors EAR, p7 et p10)&lt;/p&gt;&lt;p&gt;- Les données de collecte sont isolés dans un système indépendant de la gestion et du post collecte, avec un stockage dédié et orienté document.&lt;/p&gt;&lt;p&gt;- l&#39;API RSmart doit être adapter pour travailler avec un nouveau type de stockage, mais le client reste inchangé.&lt;/p&gt;&lt;p&gt;- Omer gestion reste à l&#39;identique mais ne profite plus de l&#39;alimentation des tables de collecte. Celles-ci restent vides. Pour continuer à fonctionner correctement, il faut toutefois veiller à faire circuler l&#39;information depuis le système de collecte.&lt;/p&gt;&lt;p&gt;- Odic doit percevoir les questionnaire validé comme dans le système actuel. Les questionnaires validés doivent quitter le système de collecte tout en y laissant une trace (éviter les doublons comme en 2024 !)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="810" width="580" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="470" as="sourcePoint" />
+            <mxPoint x="600" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-24" value="?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="408" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.99;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wSLz6fAJgM2Y5q_hvWpa-26" target="wSLz6fAJgM2Y5q_hvWpa-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="630" as="sourcePoint" />
+            <mxPoint x="510" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSLz6fAJgM2Y5q_hvWpa-26" value="EAR, P7, P10, ..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="620" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
