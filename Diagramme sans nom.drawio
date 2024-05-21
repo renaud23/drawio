@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T06:53:34.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.4" etag="EOz_dnap0Ox-3-j06f1Y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T07:19:21.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ri9qKIxOxMI5Q-4FouDQ" version="24.4.4" type="github">
   <diagram name="Page-1" id="B9jVK3V53PdYb-HJFb9O">
-    <mxGraphModel>
+    <mxGraphModel dx="815" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--7" value="base Homere" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="59.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--9" value="omer-menage-api" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="240" width="38.24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--10" value="omer-menage-ihm" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="38.24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="7z7TJ7-RLRAt2_LsNbH--13">
+          <mxGeometry width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--11" value="fédération d&#39;identité" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7z7TJ7-RLRAt2_LsNbH--13">
+          <mxGeometry x="38.879999999999995" y="20" width="38.24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--14" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="680" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--20" value="Seven/cogetefi" style="image;html=1;image=img/lib/clip_art/people/Tech_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="29.120000000000005" y="30" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--21" value="" style="group" vertex="1" connectable="0" parent="7z7TJ7-RLRAt2_LsNbH--23">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--19" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="7z7TJ7-RLRAt2_LsNbH--21">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--18" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Woman_128x128.png;container=1;" vertex="1" parent="7z7TJ7-RLRAt2_LsNbH--21">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--22" value="Enquêtés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7z7TJ7-RLRAt2_LsNbH--23">
+          <mxGeometry x="30" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="7z7TJ7-RLRAt2_LsNbH--19" target="7z7TJ7-RLRAt2_LsNbH--12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="20" as="sourcePoint" />
+            <mxPoint x="300" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
