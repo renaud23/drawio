@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T11:24:14.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="MGMJ0TGWGuNFvPm2A-SJ" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T11:27:19.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="-NBZuETwzHkThLKf-eN6" version="24.4.4" type="github">
   <diagram name="Page-1" id="B9jVK3V53PdYb-HJFb9O">
     <mxGraphModel dx="1654" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -261,8 +261,8 @@
         <mxCell id="7z7TJ7-RLRAt2_LsNbH--95" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Collecte des données&lt;/h1&gt;&lt;p&gt;- (1) Les utilisateurs récuppère le client Javascript sur le serveur de ressources statiques omer-menage-ihm&lt;/p&gt;&lt;p&gt;- (2) le client JS redirige l&#39;utilisateur sur la fédération d&#39;identité Keycloak (KC) pour authentification.&lt;/p&gt;&lt;p&gt;- (3) les utilisateurs interagisse avec le système au travers du client JS chargé dans leur navigateur.&lt;/p&gt;&lt;p&gt;- (4) (6) le client JS appel le web service omer-menage-api pour obtenir les métadonnées d&#39;enquête , lire et enregistrer les réponses aux questions&lt;/p&gt;&lt;p&gt;- (5) l&#39;api valide la signature des jetons d&#39;authentification fourni par KC et présentés par les utilisateurs. Pour cela il obtient la clef publique de signature auprès de KC.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-205" y="885" width="1205" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="7z7TJ7-RLRAt2_LsNbH--96" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Migrations des réponses vers le système de post-collecte (odiC)&lt;/h1&gt;&lt;p&gt;- .&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="1101" width="965" height="160" as="geometry" />
+        <mxCell id="7z7TJ7-RLRAt2_LsNbH--96" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Migrations des réponses vers le système de post-collecte (odiC)&lt;/h1&gt;&lt;p&gt;- .(1) (2) un traitement quotidien extrait en période de collecte les questionnaires validés d&#39;omer-menage pour les copier dans la base de post-collecte odiC, a hauteur de 200 000 questionnaire maximum par jour.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="1101" width="965" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
