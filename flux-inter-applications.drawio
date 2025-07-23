@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
   <diagram name="Page-1" id="E_Ps1VZoBHXRe9SAwYd0">
-    <mxGraphModel dx="3190" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-667" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="220" width="830" height="710" as="geometry" />
+        </mxCell>
         <mxCell id="c-d4OfnDCnfcvoNjXBJn-44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="c-d4OfnDCnfcvoNjXBJn-63" target="c-d4OfnDCnfcvoNjXBJn-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-130" y="368" as="sourcePoint" />
@@ -271,20 +274,8 @@
         <mxCell id="c-d4OfnDCnfcvoNjXBJn-186" value="x 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-187">
           <mxGeometry x="40" y="15.129999999999995" width="30" height="24.74" as="geometry" />
         </mxCell>
-        <mxCell id="c-d4OfnDCnfcvoNjXBJn-264" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-690" y="655" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="c-d4OfnDCnfcvoNjXBJn-265" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-264">
-          <mxGeometry x="8" width="32" height="37.64705882352941" as="geometry" />
-        </mxCell>
-        <mxCell id="c-d4OfnDCnfcvoNjXBJn-266" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-264">
-          <mxGeometry y="2.3529411764705883" width="32" height="37.64705882352941" as="geometry" />
-        </mxCell>
-        <mxCell id="c-d4OfnDCnfcvoNjXBJn-276" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Utilisateurs externes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="700" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="c-d4OfnDCnfcvoNjXBJn-292" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-780" y="1010" width="98.5" height="105" as="geometry" />
+          <mxGeometry x="-413" y="970" width="98.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="c-d4OfnDCnfcvoNjXBJn-203" value="Légende" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-292">
           <mxGeometry width="60" height="30" as="geometry" />
@@ -752,6 +743,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="560" as="sourcePoint" />
             <mxPoint x="576" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-663" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;SEF&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-289" y="682.5" width="40" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-664" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 4;strokeWidth=2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-d4OfnDCnfcvoNjXBJn-663" target="c-d4OfnDCnfcvoNjXBJn-294">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="810" as="sourcePoint" />
+            <mxPoint x="-204" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-665" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-419" y="560" width="67" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-662" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-665">
+          <mxGeometry width="67" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-657" value="Luminess" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-665">
+          <mxGeometry x="12" y="30.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-660" value="Sarea" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-665">
+          <mxGeometry x="12" y="109.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-661" value="Paragon" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="c-d4OfnDCnfcvoNjXBJn-665">
+          <mxGeometry x="12" y="189.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-666" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="c-d4OfnDCnfcvoNjXBJn-663">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-349" y="700" as="sourcePoint" />
+            <mxPoint x="-209" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
