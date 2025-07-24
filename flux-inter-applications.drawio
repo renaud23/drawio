@@ -811,12 +811,12 @@
             <mxPoint x="660" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c-d4OfnDCnfcvoNjXBJn-698" value="" style="curved=1;endArrow=none;html=1;rounded=0;startFill=0;dashed=1;dashPattern=1 4;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="c-d4OfnDCnfcvoNjXBJn-679" target="c-d4OfnDCnfcvoNjXBJn-687">
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-698" value="" style="curved=1;endArrow=none;html=1;rounded=0;startFill=0;dashed=1;dashPattern=1 4;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-d4OfnDCnfcvoNjXBJn-679" target="c-d4OfnDCnfcvoNjXBJn-688">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="717" y="928" as="sourcePoint" />
             <mxPoint x="640" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="510" />
+              <mxPoint x="340" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -892,7 +892,7 @@
         <mxCell id="c-d4OfnDCnfcvoNjXBJn-724" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Opale&lt;/span&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;container=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="845.5" width="32.12" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="c-d4OfnDCnfcvoNjXBJn-725" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#008a00;strokeColor=#005700;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="c-d4OfnDCnfcvoNjXBJn-708" target="c-d4OfnDCnfcvoNjXBJn-724">
+        <mxCell id="c-d4OfnDCnfcvoNjXBJn-725" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#008a00;strokeColor=#005700;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c-d4OfnDCnfcvoNjXBJn-708" target="c-d4OfnDCnfcvoNjXBJn-724">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="137" y="800" as="sourcePoint" />
             <mxPoint x="130" y="844" as="targetPoint" />
