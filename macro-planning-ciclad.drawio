@@ -31,7 +31,7 @@
         <mxCell id="KyGhYLRiYHqPS67kEfSk-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Audit de sécurité" vertex="1">
           <mxGeometry height="30" width="140" x="603" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="KyGhYLRiYHqPS67kEfSk-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agrément SGI ?" vertex="1">
+        <mxCell id="KyGhYLRiYHqPS67kEfSk-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agrément SIG ?" vertex="1">
           <mxGeometry height="30" width="595.5" x="154.5" y="402" as="geometry" />
         </mxCell>
         <mxCell id="KyGhYLRiYHqPS67kEfSk-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ouverture en production" vertex="1">
